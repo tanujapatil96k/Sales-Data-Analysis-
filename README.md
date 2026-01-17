@@ -1,6 +1,6 @@
 # Sales-Data-Analysis-
 This repository contains code and analysis for sales data using Python. The analysis is divided into several sections and each section is explained below:.
-## Table of Contents
+Table of Contents
 - [Getting Started](#getting-started)
   - [Importing Necessary Libraries](#importing-necessary-libraries)
   - [Loading Data](#loading-data)
